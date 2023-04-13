@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif?w=1024)
 <h1 align="center">Hi 👋, I'm Shubham Prakash Jaitapkar</h1>
 <h5 align="center">As a passionate frontend developer from India and an aspiring data analyst student, I am excited to pursue my interests in both fields.</h5>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
